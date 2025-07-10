@@ -6,7 +6,7 @@ const user = {
   color: "firebrick",
   links: {
     github: "https://github.com/liza",
-    linkedin: "https://github.com/liza",
+    linkedin: "https://www.linkedin.com/in/liza/",
   },
 };
 
